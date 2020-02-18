@@ -1,0 +1,38 @@
+author = "slashb4sh"
+baseurl = "/"
+canonifyurls = true
+paginate = 10
+theme = "alageek"
+title = "Exploiting Life"
+
+[params]
+copyright = ""
+copyrightUrl = ""
+description = ""
+faviconfile = ""
+latestpostcount = 5
+logofile = ""
+highlightjs = true
+highlightjslanguages = [ "bash", "css", "diff", "django", "javascript", "python", "yaml" ]
+toc = true
+posts_navigation = true
+progressively = true
+github = "github.com/maheshhari"
+twitter = "twitter.com/slashb4sh"
+email = "maheshpdm2@gmail.com"
+
+[[params.best_posts]]
+title = "Windows 7 Kernel Pool Internals"
+url = "/blog/win7kernelpoolinternals/"
+
+[[menu.primary]]
+identifier = "blog"
+name = "Blog"
+url = "/blog/"
+weight = 10
+
+[[menu.primary]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 20
