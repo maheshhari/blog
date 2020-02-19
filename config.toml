@@ -17,8 +17,8 @@ highlightjslanguages = [ "bash", "css", "diff", "django", "javascript", "python"
 toc = true
 posts_navigation = true
 progressively = true
-github = "github.com/maheshhari"
-twitter = "twitter.com/slashb4sh"
+github = "maheshhari"
+twitter = "slashb4sh"
 email = "maheshpdm2@gmail.com"
 
 [[params.best_posts]]

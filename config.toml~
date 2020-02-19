@@ -36,3 +36,9 @@ identifier = "about"
 name = "About"
 url = "/about/"
 weight = 20
+
+[[menu.primary]]
+identifier = "resume"
+name = "resume"
+url = "/resume.pdf"
+weight = 20
