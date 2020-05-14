@@ -2,10 +2,11 @@
 title:  Windows 7 Kernel Pool Internals
 date: 2020-02-08 00:00:00
 categories:
-  - Pwn
   - Windows
   - heap
 tags:
+  - Windows
+  - Kernel
 thumbnailImagePosition: right
 ---
 
